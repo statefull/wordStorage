@@ -1,0 +1,2 @@
+# wordStorage
+Stores words
